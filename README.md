@@ -3,7 +3,7 @@ SHPB PROCESSING / Split Hopkinson Pressure Bar Analysis Tool application is used
 
 
 ### Voltage to Strain for the example data
-#### (Vo/Vi)=(exGainxBFxGF)/4
+#### (Vo/Vi)=(e*Gain*BF*GF)/4
 
 Vo = Output voltages from gauge/bridge (Variable term)
 Vi = Input voltage to the bridge = 5V
