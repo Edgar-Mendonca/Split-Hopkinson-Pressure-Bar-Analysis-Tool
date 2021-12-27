@@ -12,7 +12,7 @@ BF = Bridge factor; Longitudinal gauge=1; Lateral gauge=Poisson's ratio=0.3;
 GF= Gauge factor; based on the gauges used and given by the manufacturer = 2;
 e = Output stain
 
-##### e = (Vo*4)/(Vi* Gain* GF* BF)
+##### e = (Vo* 4)/(Vi* Gain* GF* BF)
 ##### e = 1.53e-3 *Vo
 
 # Version: 2.0 
