@@ -19,3 +19,6 @@ e = Output stain
 # Version: 3.0 
 Last updated: **03/01/2022**
 Total version: **3**
+
+# Setup
+![image](https://user-images.githubusercontent.com/67676399/147903996-0052e50b-d00f-45ed-9f1b-28779ef1a72a.png)
