@@ -14,7 +14,8 @@ e = Output stain
 
 ##### e = (Vo* 4)/(Vi* Gain* GF* BF)
 ##### e = 1.53e-3 *Vo
+ (Use the appropriate values of inputs based on the design of strain gauge amplifier and the gauges used)
 
-# Version: 2.0 
-Last updated: **11/11/2021**
-Total version: **2**
+# Version: 3.0 
+Last updated: **03/01/2022**
+Total version: **3**
