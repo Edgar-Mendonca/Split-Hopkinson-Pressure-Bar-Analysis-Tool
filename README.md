@@ -7,7 +7,7 @@ SHPB PROCESSING / Split Hopkinson Pressure Bar Analysis Tool application is used
 
 Vo = Output voltages from gauge/bridge (Variable term);
 Vi = Input voltage to the bridge = 5V (Fixed from voltage supply);
-Gain = set in the voltage amplifier, multiplication factor to the output voltage = 100
+Gain = set in the voltage amplifier, multiplication factor to the output voltage = 100 (fixed resistor);
 BF = Bridge factor; Longitudinal gauge=1; Lateral gauge=Poisson's ratio=0.3 (for SS bars);
 GF= Gauge factor; based on the gauges used and given by the manufacturer = 2;
 e = Output stain
