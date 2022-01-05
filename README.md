@@ -23,4 +23,5 @@ Total version: **3**
 # Setup
 ![image](https://user-images.githubusercontent.com/67676399/147903996-0052e50b-d00f-45ed-9f1b-28779ef1a72a.png)
 
-<iframe src="https://myhub.autodesk360.com/ue2b1d0d2/shares/public/SH9285eQTcf875d3c5394ac0d8acc0fc1a51?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+# Three Dimensional Model of setup
+"https://myhub.autodesk360.com/ue2b1d0d2/shares/public/SH9285eQTcf875d3c5394ac0d8acc0fc1a51?mode=embed" 
