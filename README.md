@@ -5,19 +5,19 @@ SHPB PROCESSING / Split Hopkinson Pressure Bar Analysis Tool application is used
 ### Voltage to Strain factor conversion
 #### (Vo/Vi)=(e* Gain* BF* GF)/4
 
-Vo = Output voltages from gauge/bridge (Variable term);<br/>
-Vi = Input voltage to the bridge = 5V (Fixed from voltage supply);<br/>
-Gain = set in the voltage amplifier, multiplication factor to the output voltage = 100 (fixed resistor);<br/>
-BF = Bridge factor; Longitudinal gauge=1; Lateral gauge=Poisson's ratio=0.3 (for SS bars);<br/>
-GF= Gauge factor; based on the gauges used and given by the manufacturer = 2;<br/>
+Vo = Output voltages from gauge/bridge (Variable term)<br/>
+Vi = Input voltage to the bridge = 5V (Fixed from voltage supply)<br/>
+Gain = set in the voltage amplifier, multiplication factor to the output voltage = 100 (fixed resistor)<br/>
+BF = Bridge factor; Longitudinal gauge=1; Lateral gauge=Poisson's ratio=0.3 (for SS bars)<br/>
+GF= Gauge factor; based on the gauges used and given by the manufacturer = 2<br/>
 e = Output stain
 
 ##### e = (Vo* 4)/(Vi* Gain* GF* BF)
 ##### e = 1.53e-3 *Vo
- (Use the appropriate values of inputs based on the design of strain gauge amplifier and the gauges used)
- (Note: The following values were obtained based on the strain gauge amplifier design and the full bridge configuration of the strain gauges mounted on the bars)
- (Find the amplifier design: https://sites.google.com/view/edgarmendonca/projects/multi-channel-dynamic-strain-gauge-amplifier)
- (Find the Hopkinson Bar Design and Setup:https://sites.google.com/view/edgarmendonca/research/split-hopkinson-pressure-bar-design-testing-and-applications)
+ (Use the appropriate values of inputs based on the design of strain gauge amplifier and the gauges used)<br/>
+ (Note: The following values were obtained based on the strain gauge amplifier design and the full bridge configuration of the strain gauges mounted on the bars)<br/>
+ (Find the amplifier design: https://sites.google.com/view/edgarmendonca/projects/multi-channel-dynamic-strain-gauge-amplifier)<br/>
+ (Find the Hopkinson Bar Design and Setup:https://sites.google.com/view/edgarmendonca/research/split-hopkinson-pressure-bar-design-testing-and-applications)<br/>
  
 
 # Version: 3.0 
