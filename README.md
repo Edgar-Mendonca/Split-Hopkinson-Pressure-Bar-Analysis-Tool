@@ -15,6 +15,10 @@ e = Output stain
 ##### e = (Vo* 4)/(Vi* Gain* GF* BF)
 ##### e = 1.53e-3 *Vo
  (Use the appropriate values of inputs based on the design of strain gauge amplifier and the gauges used)
+ (Note: The following values were obtained based on the strain gauge amplifier design and the full bridge configuration of the strain gauges mounted on the bars)
+ (Find the amplifier design: https://sites.google.com/view/edgarmendonca/projects/multi-channel-dynamic-strain-gauge-amplifier)
+ (Find the Hopkinson Bar Design and Setup:https://sites.google.com/view/edgarmendonca/research/split-hopkinson-pressure-bar-design-testing-and-applications)
+ 
 
 # Version: 3.0 
 Last updated: **03/01/2022**
