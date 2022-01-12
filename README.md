@@ -25,13 +25,11 @@ GF=2 <br/>
  (Find the amplifier design: https://sites.google.com/view/edgarmendonca/projects/multi-channel-dynamic-strain-gauge-amplifier)<br/>
  (Find the Hopkinson Bar Design and Setup:https://sites.google.com/view/edgarmendonca/research/split-hopkinson-pressure-bar-design-testing-and-applications)<br/>
  (Find the 3D model of the setup:"https://myhub.autodesk360.com/ue2b1d0d2/shares/public/SH9285eQTcf875d3c5394ac0d8acc0fc1a51?mode=embed" )<br/>
- 
-
-# Version: 3.0 
-Last updated: **03/01/2022**
-Total version: **3**
 
 # Setup
 ![image](https://user-images.githubusercontent.com/67676399/149070512-d66e211e-7239-4d64-bd10-58723fddadab.png)
 ![image](https://user-images.githubusercontent.com/67676399/149070802-f89eb121-ec47-4b73-ae56-b4c67dbf19dd.png)
 
+# Version: 3.0 
+Last updated: **03/01/2022** <br/>
+Total version: **3**
