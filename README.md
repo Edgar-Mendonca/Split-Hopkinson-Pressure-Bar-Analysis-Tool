@@ -7,19 +7,16 @@ SHPB PROCESSING / Split Hopkinson Pressure Bar Analysis Tool application is used
 
 Vo = Output voltages from gauge/bridge (Variable term)<br/>
 Vi = Input voltage to the bridge (Fixed from voltage supply)<br/>
-Gain = set in the voltage amplifier, multiplication factor to the output voltage(Fixed resistor)<br/>
-BF = Bridge factor; Longitudinal gauge=1; Lateral gauge=Poisson's ratio (Based on)<br/>
-GF= Gauge factor; based on the gauges used and given by the manufacturer = 2<br/>
+Gain = set in the voltage amplifier, multiplication factor to the output voltage(Based on amplifier setup)<br/>
+BF = Bridge factor; Longitudinal gauge=1; Lateral gauge=Poisson's ratio (Based on bars and gauge orientation)<br/>
+GF= Gauge factor; based on the gauges used and given by the manufacturer = 2 ()<br/>
 e = Output stain <br/>
 
 ##### e = (Vo* 4)/(Vi* Gain* BF* GF)
 
 ### Example Calculation (for the amplifier design mentioned)
-Vi=5V <br/>
-Gain=100 <br/>
-BF=2.6 <br/>
-GF=2 <br/>
-##### e = 1.53e-3 *Vo
+Vi=5V; Gain=100; BF=2.6; GF=2;
+#### e = 1.53e-3 *Vo
  (Use the appropriate values of inputs based on the design of strain gauge amplifier and the gauges used)<br/>
  (Note: The following values were obtained based on the strain gauge amplifier design and the full bridge configuration of the strain gauges mounted on the bars)<br/>
  (Find the amplifier design: https://sites.google.com/view/edgarmendonca/projects/multi-channel-dynamic-strain-gauge-amplifier)<br/>
