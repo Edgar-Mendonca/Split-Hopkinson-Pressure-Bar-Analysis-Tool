@@ -33,4 +33,5 @@ Total version: **3**
 
 # Setup
 ![image](https://user-images.githubusercontent.com/67676399/149070512-d66e211e-7239-4d64-bd10-58723fddadab.png)
-![image](https://user-images.githubusercontent.com/67676399/147903996-0052e50b-d00f-45ed-9f1b-28779ef1a72a.png)
+![image](https://user-images.githubusercontent.com/67676399/149070802-f89eb121-ec47-4b73-ae56-b4c67dbf19dd.png)
+
