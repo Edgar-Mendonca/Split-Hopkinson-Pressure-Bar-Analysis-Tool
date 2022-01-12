@@ -14,7 +14,7 @@ e = Output stain <br/>
 
 ##### e = (Vo* 4)/(Vi* Gain* BF* GF)
 
-#### Example Calculation (for the amplifier design mentioned)
+### Example Calculation (for the amplifier design mentioned)
 Vi=5V <br/>
 Gain=100 <br/>
 BF=2.6 <br/>
