@@ -28,5 +28,5 @@ Vi=5V; Gain=100; BF=2.6; GF=2;
 ![image](https://user-images.githubusercontent.com/67676399/149070802-f89eb121-ec47-4b73-ae56-b4c67dbf19dd.png)
 
 # Version: 3.0 
-Last updated: **03/01/2022** <br/>
-Total version: **3**
+Last updated: **14/01/2022** <br/>
+Total version: ****
