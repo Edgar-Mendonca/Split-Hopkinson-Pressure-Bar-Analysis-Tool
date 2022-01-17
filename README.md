@@ -29,4 +29,4 @@ Vi=5V; Gain=100; BF=2.6; GF=2;
 
 # Version: 3.0 
 Last updated: **14/01/2022** <br/>
-Total version: ****
+Total version: **3**
