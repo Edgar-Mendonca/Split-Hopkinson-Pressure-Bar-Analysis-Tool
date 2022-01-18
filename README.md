@@ -26,6 +26,8 @@ Vi=5V; Gain=100; BF=2.6; GF=2;
 # Setup
 ![image](https://user-images.githubusercontent.com/67676399/149070512-d66e211e-7239-4d64-bd10-58723fddadab.png)
 ![image](https://user-images.githubusercontent.com/67676399/149070802-f89eb121-ec47-4b73-ae56-b4c67dbf19dd.png)
+![image](https://user-images.githubusercontent.com/67676399/149881927-231fb2c9-7054-4271-b9f6-235a3049ca75.png)
+
 
 # Version: 3.0 
 Last updated: **14/01/2022** <br/>
