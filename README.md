@@ -27,8 +27,12 @@ Vi=5V; Gain=100; BF=2.6; GF=2;
 ![image](https://user-images.githubusercontent.com/67676399/149070512-d66e211e-7239-4d64-bd10-58723fddadab.png)
 ![SHPB SETUP](https://user-images.githubusercontent.com/67676399/149882290-ee686e5f-2beb-47e4-aec5-9b008c2a28cd.png)
 
+# Tutorial
+https://youtu.be/0fWdUWLbv9A
 
 
-# Version: 3.0 
-Last updated: **14/01/2022** <br/>
-Total version: **3**
+
+
+# Version: 3.1 
+Last updated: **04/02/2022** <br/>
+Total version: **4**
