@@ -31,8 +31,6 @@ Vi=5V; Gain=100; BF=2.6; GF=2;
 https://youtu.be/0fWdUWLbv9A
 
 
-
-
 # Version: 3.1 
 Last updated: **04/02/2022** <br/>
 Total version: **4**
